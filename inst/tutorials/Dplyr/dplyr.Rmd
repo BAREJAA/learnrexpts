@@ -15,5 +15,6 @@ library(learnr)
 Use the empty code chunk below to run the code examples you see in the recording above
 
 ```{r success, exercise=TRUE}
-print("It worked!")
+
+
 ```
