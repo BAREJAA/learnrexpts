@@ -14,6 +14,6 @@ library(learnr)
 
 Use the empty code chunk below to run the code examples you see in the recording above
 
-```{r empty, exercise=TRUE}
-Enter your code here
+```{r success, exercise=TRUE}
+print("It worked!")
 ```
