@@ -1,0 +1,19 @@
+---
+title: "Dplyr"
+output: learnr::tutorial
+runtime: shiny_prerendered
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(learnr)
+```
+
+![](https://www.youtube.com/watch?v=RAFlQ0hv-Y4&t=3091s)
+
+Use the empty code chunk below to run the code examples you see in the recording above
+
+```{r empty, exercise=TRUE}
+Enter your code here
+```
