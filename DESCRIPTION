@@ -13,4 +13,5 @@ Imports:
     tidyverse,
     ggrepel,
     fontawesome,
-    rstudioapi
+    rstudioapi,
+    rlang
