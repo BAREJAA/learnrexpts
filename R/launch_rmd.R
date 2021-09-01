@@ -6,5 +6,5 @@
 
 launch_rmd <- function(file = "class_one.Rmd"){
   package_path <- find.package("learnrexpts")
-  navigateToFile(paste0(package_path, "/class/", file))
+  rstudioapi::navigateToFile(paste0(package_path, "/class/", file))
 }
